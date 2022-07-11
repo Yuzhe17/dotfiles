@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = y.xiao-1@tudelft.nl
+	name = Yuzhe Xiao
